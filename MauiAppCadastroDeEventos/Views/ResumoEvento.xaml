@@ -6,7 +6,7 @@
              NavigationPage.HasNavigationBar="False"
              >
              
-        <ContentPage.Background>
+    <ContentPage.Background>
         <LinearGradientBrush StartPoint="0,3" EndPoint="1,0">
             <GradientStop Color="black" Offset="0.4"/>
             <GradientStop Color="purple" Offset="1.0"/>

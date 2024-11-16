@@ -477,3 +477,4 @@ C:\Users\bianc\Projetos\MauiAppCadastroDeEventos\MauiAppCadastroDeEventos\obj\De
 C:\Users\bianc\Projetos\MauiAppCadastroDeEventos\MauiAppCadastroDeEventos\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Merriweather-Light.ttf
 C:\Users\bianc\Projetos\MauiAppCadastroDeEventos\MauiAppCadastroDeEventos\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Merriweather-LightItalic.ttf
 C:\Users\bianc\Projetos\MauiAppCadastroDeEventos\MauiAppCadastroDeEventos\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\Merriweather-Regular.ttf
+C:\Users\bianc\Projetos\MauiAppCadastroDeEventos\MauiAppCadastroDeEventos\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiAppCadastroDeEventos.sourcelink.json

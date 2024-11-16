@@ -5,6 +5,8 @@ namespace MauiAppCadastroDeEventos.Views
     public partial class InserirEvento : ContentPage
     {
         
+        public static List<Evento> ListaEventos = new List<Evento>();
+
         public InserirEvento()
         {
             InitializeComponent();
@@ -29,6 +31,8 @@ namespace MauiAppCadastroDeEventos.Views
                 Local = local_evento.Text,
                 
             };
+
+            ListaEventos.Add(t);
 
             await Navigation.PushAsync(new ResumoEvento(){
 
